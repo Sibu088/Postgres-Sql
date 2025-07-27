@@ -1,0 +1,4 @@
+id#name#birth_year
+1#Leonardo DiCaprio#1974
+2#Meryl Streep#1949
+3#Tom Hanks#1956
